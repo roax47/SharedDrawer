@@ -1,0 +1,11 @@
+c:\users\roax4\source\repos\server\server\bin\Debug\server.exe
+c:\users\roax4\source\repos\server\server\bin\Debug\server.pdb
+c:\users\roax4\source\repos\server\server\obj\Debug\server.csprojAssemblyReference.cache
+c:\users\roax4\source\repos\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+c:\users\roax4\source\repos\server\server\obj\Debug\server.exe
+c:\users\roax4\source\repos\server\server\obj\Debug\server.pdb
+C:\Users\Roax4\Desktop\server\server\bin\Debug\server.exe
+C:\Users\Roax4\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\Roax4\Desktop\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Roax4\Desktop\server\server\obj\Debug\server.exe
+C:\Users\Roax4\Desktop\server\server\obj\Debug\server.pdb
